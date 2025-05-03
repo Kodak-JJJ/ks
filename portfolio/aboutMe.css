@@ -54,7 +54,7 @@ nav{
     position: sticky;
     top:0;
     align-self:start;
-    width: 200px;
+    max-width: 200px;
 }
 nav ul{
     padding-left: 3px;
